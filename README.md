@@ -10,4 +10,12 @@
   <img src="badge2.png" width="120"/>
 </a>
 
+<a href="https://leetcode.com/u/i___am___avadhut/">
+  <img src="100-days-badge.png" width="120"/>
+</a>
+
+<a href="https://leetcode.com/u/i___am___avadhut/">
+  <img src="dcc-july-badge.png" width="120"/>
+</a>
+
 </p>
