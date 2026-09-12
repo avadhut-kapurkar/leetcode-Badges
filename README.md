@@ -3,23 +3,23 @@
 <p align="center">
 
 <a href="https://leetcode.com/u/avadhut-kapurkar/">
-  <img src="badge1.png" width="120"/>
+  <img src="100 Days Badge.png" width="120"/>
 </a>
 
 <a href="https://leetcode.com/u/avadhut-kapurkar/">
-  <img src="badge2.png" width="120"/>
+  <img src="50 Day Streak.png" width="120"/>
 </a>
 
 <a href="https://leetcode.com/u/avadhut-kapurkar/">
-  <img src="100-days-badge.png" width="120"/>
+  <img src="DCC AUGUST BADGE.png" width="120"/>
 </a>
 
 <a href="https://leetcode.com/u/avadhut-kapurkar/">
-  <img src="dcc-july-badge.png" width="120"/>
+  <img src="Dcc July Badge.png" width="120"/>
 </a>
 
 <a href="https://leetcode.com/u/avadhut-kapurkar/">
-  <img src="dcc-august-badge.png" width="120"/>
+  <img src="Dcc June Badge.png" width="120"/>
 </a>
 
 </p>
