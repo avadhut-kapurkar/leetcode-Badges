@@ -11,6 +11,10 @@
 </a>
 
 <a href="https://leetcode.com/u/avadhut-kapurkar/">
+  <img src="DCC SEPTEMBER BADGE.png" width="120"/>
+</a>
+
+<a href="https://leetcode.com/u/avadhut-kapurkar/">
   <img src="DCC AUGUST BADGE.png" width="120"/>
 </a>
 
